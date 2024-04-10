@@ -1,6 +1,6 @@
 # Blood Donation Prediction with Logistic Regression using TPOT  
 
-This repository contains a Jupyter notebook and a .csv file containing a dataset from a mobile blood donation vehicle in Taiwan. The Blood Transfusion Service Center drives to different universities and collects blood as part of a blood drive. We want to predict whether or not a donor will give blood the next time the vehicle comes to campus.  
+&nbsp;This repository contains a Jupyter notebook and a .csv file containing a dataset from a mobile blood donation vehicle in Taiwan. The Blood Transfusion Service Center drives to different universities and collects blood as part of a blood drive. We want to predict whether or not a donor will give blood the next time the vehicle comes to campus.  
  
 The data is stored in datasets/transfusion.data and it is structured according to RFMTC marketing model (a variation of RFM).
 
@@ -40,6 +40,22 @@ The stages of the project are as follows:
 - MatplotLib
 - Seaborn
 - Scikit-learn
+
+## How to Use
+&nbsp;You can run the project by cloning it or downloading the files on your local machine. It is recommended to use a Python development environment such as Jupyter Notebook or Anaconda. By running the project files or examining the visualizations, you can learn more about the dataset.
+
+```bash
+git clone https://github.com/yusufkurubacak/Blood-Donation-Logistic-Regression-TPOT.git
+```
+
+## Contributing
+&nbsp;If you would like to contribute to this project, please fork it and make your changes. Then submit a pull request to propose your changes. Any contributions and feedback are welcome.
+
+## License
+&nbsp;This project is licensed under MIT. For more information, see the LICENSE file.
+
+## Contact
+&nbsp;If you have any questions or feedback about the project, feel free to contact me at yusufkurubacakk@gmail.com.
 
 
 
